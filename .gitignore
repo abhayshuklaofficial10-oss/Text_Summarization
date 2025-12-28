@@ -1,0 +1,16 @@
+.env
+# Virtual environment
+venv/
+.env
+
+# Cache & temp files
+__pycache__/
+*.pyc
+.gradio/
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Vector DB (if any)
+.chroma/
